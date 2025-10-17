@@ -20,7 +20,6 @@
 | Lección 1 | **Control del Jugador** | Sistema de movimiento, físicas Rigidbody, input management | [📁 Drive]() |
 | Lección 2 | **Jugabilidad Básica** | Maniobra al jugador para mantener vivo el juego | [📁 Drive]() |
 | Lección 3 | **Sistema de Audio** | Efectos de sonido, música ambiental, audio mixers | [📁 Drive]() |
-| Lección 4 | **Mecánicas de Juego ** | Detección de colisiones, spawn de objetos, game mechanics | [📁 Drive]() |
 | Lección 5 | **Interfaz de Usuario** | Canvas, menús de juego, HUD, sistema de vidas | [📁 Drive]() |
 ---
 
