@@ -23,7 +23,7 @@
 | Lección 5 | **Interfaz de Usuario** | Canvas, menús de juego, HUD, sistema de vidas | [📁 Drive]() |
 ---
 
-## 🧩 Actividad 2: Videojuego Final – “Nombre del Proyecto”
+## 🧩 Actividad 2: Videojuego Final – “of Clay”
 
 ### 🎯 Objetivo
 Desarrollar un videojuego 3D con mecánicas completas, interfaz, niveles y narrativa.
