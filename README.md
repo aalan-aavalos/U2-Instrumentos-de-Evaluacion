@@ -52,8 +52,8 @@ of Clay es un juego 3D low-poly donde el jugador debe sobrevivir a hordas de man
 | 01 | Movimiento básico del jugador | Implementación de movimiento 3D con Rigidbody y Input System. | https://drive.google.com/file/d/1xawC3o_4phlVXgcSZ5wmWk0pugaOT-_Z/view?usp=sharing |
 | 02 | Animación Mixamo / Pixel Adventure | Integración de animaciones con Animator Controller. | https://drive.google.com/file/d/1xawC3o_4phlVXgcSZ5wmWk0pugaOT-_Z/view?usp=sharing - La misma que el 1 ya que implemento movimiento y un personaje animado |
 | 03 | Menú principal | Implementación de botones “Jugar”, “Salir” y transición de escenas. | Se revisso en clase |
-| 04 |  |  | |
-| 05 |  |  | |
+| 04 | Creación de una Barra de Vida | Implementar una barra de vida | |
+| 05 | Juego Multijugador  | Crear un juego que sea multijugador | |
 
 ---
 
